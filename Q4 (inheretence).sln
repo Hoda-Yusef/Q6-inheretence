@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q4 (inheretence)", "Q4 (inheretence)\Q4 (inheretence).csproj", "{BB08EF67-309B-4C29-AD62-A1C0B44B832E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB08EF67-309B-4C29-AD62-A1C0B44B832E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB08EF67-309B-4C29-AD62-A1C0B44B832E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB08EF67-309B-4C29-AD62-A1C0B44B832E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB08EF67-309B-4C29-AD62-A1C0B44B832E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17EDB5B-9AED-4B4F-BDC6-217F508AD41D}
+	EndGlobalSection
+EndGlobal
